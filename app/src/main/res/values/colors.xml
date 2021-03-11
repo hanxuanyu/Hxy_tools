@@ -1,0 +1,18 @@
+<resources>
+    <color name="colorPrimary">#80CBC4</color>
+    <color name="colorPrimaryDark">#80CBC4</color>
+    <color name="colorAccent">#80CBC4</color>
+    <color name="super_light_grey">#eeeeee</color>
+    <color name="white">#ffffff</color>
+    <color name="line_grey">#eeeeee</color>
+    <color name="edit_text_normal_color">#BDC7D8</color>
+    <color name="edit_text_focused_color">#728ea3</color>
+    <color name="white_50">#80ffffff</color>
+    <color name="mz_theme_color_crimson">#d33a2a</color>
+    <color name="white_40">#66ffffff</color>
+    <color name="white_20">#33ffffff</color>
+
+    <color name="decibel_bg_round">#191d26</color>
+    <color name="decibel_round">#474a51</color>
+    <color name="window_background">#0d111a</color>
+</resources>
